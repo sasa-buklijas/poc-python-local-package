@@ -1,0 +1,4 @@
+
+*.pyc
+.DS_Store
+/venv_3-11-4
